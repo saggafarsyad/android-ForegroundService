@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hello App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_show_time">Show Time</string>
+    <string name="label_start_foreground">Start Foreground</string>
+    <string name="label_stop_foreground">Stop Foreground</string>
+    <string name="label_say_hello">Say Hello!</string>
+</resources>
